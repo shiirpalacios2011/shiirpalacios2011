@@ -1,16 +1,47 @@
-## Hi there 👋
+👋 ¡Hola, bienvenido a mi perfil de GitHub!
 
-<!--
-**shiirpalacios2011/shiirpalacios2011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy **Shirley Palacios**, estudiante de programación apasionada por el desarrollo y la tecnología.  
+Acá encontrarás proyectos en los que he trabajado, desde aplicaciones frontend hasta sistemas backend.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌎 Sobre mí
+
+| 💖 **Ubicación:** | Argentina |
+|---|---|
+| 📧 **Contacto:** | shiirpalacios@gmail.com |
+| 🔗 **Redes:** | [LinkedIn](https://www.linkedin.com/in/shirleypalacios96/) \| [Portafolio](https://portafolio-rfczfud8p-shiirpalacios-3990s-projects.vercel.app/) |
+
+---
+
+## 💻 Tecnologías y habilidades
+
+### 🚀 Desarrollo Frontend
+
+- HTML, CSS, JavaScript
+- Angular, TypeScript
+- Bootstrap, Tailwind CSS
+
+### 🖥️ Desarrollo Backend
+
+- Java
+- .NET
+- C#
+- ASP.NET Core
+
+### 🗄️ Bases de Datos
+
+- MySQL
+- PostgreSQL
+- SQL Server
+
+### 🛠️ Herramientas y Metodologías
+
+- Git, GitHub
+- Docker
+- Scrum
+- Testing unitario
+
+---
+- Testing unitario
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shiirpalacios2011&show_icons=true&theme=radical)
