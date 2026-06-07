@@ -41,7 +41,3 @@ Acá encontrarás proyectos en los que he trabajado, desde aplicaciones frontend
 - Docker
 - Scrum
 - Testing unitario
-
----
-- Testing unitario
-![GitHub Stats](https
