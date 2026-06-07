@@ -44,4 +44,4 @@ Acá encontrarás proyectos en los que he trabajado, desde aplicaciones frontend
 
 ---
 - Testing unitario
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shiirpalacios2011&show_icons=true&theme=radical)
+![GitHub Stats](https
