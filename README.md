@@ -28,6 +28,7 @@ Acá encontrarás proyectos en los que he trabajado, desde aplicaciones frontend
 - .NET
 - C#
 - ASP.NET Core
+- Python
 
 ### 🗄️ Bases de Datos
 
